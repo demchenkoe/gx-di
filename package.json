@@ -1,0 +1,32 @@
+{
+  "name": "gx-di",
+  "version": "1.0.0",
+  "description": "module dependencies based on di mdodule",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/demchenkoe/gx-di.git"
+  },
+  "keywords": [
+    "dependency",
+    "injection",
+    "gx"
+  ],
+  "author": "Eugene Demchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demchenkoe/gx-di/issues"
+  },
+  "homepage": "https://github.com/demchenkoe/gx-di#readme",
+  "dependencies": {
+    "di": "0.0.1",
+    "glob": "^7.1.1",
+    "lodash": "^4.17.4"
+  }
+}
